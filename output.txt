@@ -1,0 +1,30 @@
+Q1:
+Tatooine
+Endor
+Q2:
+Han Solo
+Princess Leia
+Luke Skywalker
+C-3 PO
+R2-D2
+Yoda
+Jabba the Hutt
+Rancor
+Q3:
+Yoda
+Rancor
+Owen Lars
+Jabba the Hutt
+Lando Calrissian
+R2-D2
+C-3 PO
+Chewbacca
+Q4:
+Luke Skywalker	2
+Obi-Wan Kanobi	1
+Owen Lars	1
+Q5:
+1	Luke Skywalker
+2	Luke Skywalker
+2	R2-D2
+3	Luke Skywalker
